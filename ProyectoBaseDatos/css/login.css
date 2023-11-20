@@ -1,0 +1,39 @@
+body{
+	padding: auto;
+	background-color: #6a7fc1;
+	justify-content: center;
+	font-family: 'Courier New', Courier, monospace;
+}
+
+.formul{
+	color: #ffff;
+	width: 500px;
+	height: auto;
+	padding: 25px;
+	text-align: center;
+	font-size: large;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 9pc;
+	background-color: #4a5989;
+	border-radius: 5px;
+
+}
+
+.form-control{
+	padding: 10px;
+	border-radius: 5px;
+	border-color: purple;
+	width: 16pc;
+	text-align: center;
+}
+
+.btn-success{
+	padding: 5px;
+	width: 7pc;
+	height: auto;
+	background-color: green;
+	color: white;
+	border-radius: 5px;
+	font-size: 1	pc;
+}
